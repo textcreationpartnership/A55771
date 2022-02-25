@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eye-salve for England, or, The grand trappan detected in a plain and faithful narrative of the horrid and unheard-of designs of some justices and deputy-lieutenants in Lancashire treacherously to ensnare the lives and estates of many persons of quality in that county, as also, in the counties of York and Chester / by Evan Price ...</title>
+            <author>Price, Evan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55771</idno>
+            <idno type="STC">Wing P3332</idno>
+            <idno type="STC">ESTC R9214</idno>
+            <idno type="EEBO-CITATION">13742478</idno>
+            <idno type="OCLC">ocm 13742478</idno>
+            <idno type="VID">101675</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101675)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:57)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eye-salve for England, or, The grand trappan detected in a plain and faithful narrative of the horrid and unheard-of designs of some justices and deputy-lieutenants in Lancashire treacherously to ensnare the lives and estates of many persons of quality in that county, as also, in the counties of York and Chester / by Evan Price ...</title>
+                  <author>Price, Evan.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Price, Evan.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Lancashire (England) --  History.</term>
+               <term>Yorkshire (England) --  History --  17th century.</term>
+               <term>Cheshire (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101675:1"/>
+            <pb facs="tcp:101675:1"/>
+            <p>Eye-ſalve for England: OR, The Grand TRAPPAN Detected, In a plain and faithful NARRATIVE of the horrid and unheard-of Deſigns of ſome Juſtices and De<g ref="char:EOLhyphen"/>puty-Lieutenants in <hi>Lancaſhire,</hi> treacherouſly to en<g ref="char:EOLhyphen"/>ſnare the Lives and Eſtates of many Perſons of Quality in that County, as alſo in the Counties of <hi>York</hi> and <hi>Cheſter.</hi>
+            </p>
+            <p>By EVAN PRICE, vvho ſuffered long and grievous Impri<g ref="char:EOLhyphen"/>ſonment there, for not complying with them to carry on their wicked and pernicious Deſigns.</p>
+            <q>
+               <bibl>
+                  <hi>Pſal. 53.8.</hi>
+               </bibl>
+               <p>Let deſtruction come upon him unawares, and let his net that he hath hid, catch himſelf: into that very deſtruction let him fall.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Verſ. 20.</hi>
+               </bibl>
+               <p>For they ſpeak not peace, but they deviſe deceitful matters against them that are quiet in the Land. See <hi>Pſal. 31.23. &amp; 38.12. &amp; 50.19. &amp; 83.1, 2, 3.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Exod. 8.29.</hi>
+               </bibl>
+               <p>—But let not <hi>Pharoah</hi> deal deceitfully any more.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Deut. 27.25.</hi>
+               </bibl>
+               <p>Curſed be he that taketh reward to ſlay an Innocent perſon: and all the People ſhall ſay, Amen.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ezek. 22.6.</hi>
+               </bibl>
+               <p>Behold the Princes of Iſrael, every one were in thee to their power to ſhed blood.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Ver. 9.</hi>
+               </bibl>
+               <p>In thee are men that carry tales to ſhed blood.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 10.26.</hi>
+               </bibl>
+               <p>For there is nothing covered, that ſhall not be revealed: nor hid, that ſhall not come abroad.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1667.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101675:2"/>
+            <pb facs="tcp:101675:2"/>
+            <head>To the READER.</head>
+            <p>MAny are the Volumns recorded of the craft, cruelty, malice and rage of the old Serpent the Devil and Satan, beſides what is recorded in the Scriptures of Truth, against the Law of God, and the Gospel and Kingdom of the Lord Jeſus, and his People walking in the pro<g ref="char:EOLhyphen"/>feſſion of the ſame; but that this Generation exceeds all in wickedneſs that ever went before it in this Nation, needs no proof to ſuch as obſerve good and evil acted therein, and that Satans laſt ſhift is to ſhew himſelf on the ſtage of the world in the likeneſs of an Angel of light, and his miniſters as the Miniſters of Righ<g ref="char:EOLhyphen"/>teouſneſs, is evident from the holy Scriptures, and that more especially imme<g ref="char:EOLhyphen"/>diately before his utter ruine, and downfal of his kingdom. How far he hath thus appeared, let them who are endued with wiſdom from above judge, but to me his rage ſeems to be ſuch, that doubleſs himſelf knows his time is but ſhort, and that he ſeeth the Lord Jeſus in a meek manner muſtering up his Hoſt, and ready to go forth in the van of them, to take to himſelf his great Power and Reign, not onely in the midſt of, but alſo over his and their Enemies, in his Saints, for the execution of his Fathers Will.</p>
+            <p>And now as an additional diſcovery of the Devil and his inſtruments, I think my ſelf obliged every way, in duty to God, my King and Country, to preſent thee here with a brief <hi>Narrative,</hi> acted by ſome in the name, and under pretence of Authority, of as monſtrous wickedneſs as ever was brought to publick view; which when thou haſt read, if thy conſcience be not wholly blinded and ſeared up, thou thy ſelf wilt ſay it ſurpaſſeth the deeds of the Wicked in former ages, eſpe<g ref="char:EOLhyphen"/>cially when thou ſeeſt the Wolves, cloathed in a Lamb-like dreſs, thirſting after the blood of the Innocent. Had it been done by <hi>Pagans</hi> or
+<hi>Atheiſts,</hi> void of any knowledge or fear of God, or had not heard of Heaven and Hell, and of giving account for the deeds done in the fleſh, and of God's dreadful judgments againſt the ſhedders of innocent blood, then it had been no ſuch wonder; though I never read that ſuch went about in the name of Authority to hire falſe witneſſes to cut off ſo many men at once (as it were) that feared the Lord, as it ſeems was the deſign of the men that ſet on foot the actions, made manifeſt in the following Relation; which is nothing but what I have already declared in open Court, as alſo in my Caſe given to Judge <hi>Ransford,</hi> March <hi>1. 1665.</hi> earneſtly deſiring it might be by him delivered to the King. Many remarkable paſſages there are omitted in the Narrative; one thing worthy noting is, That Mr. <hi>Moſely</hi> was put into an Office of truſt and profit, though he brought nothing of his Deſign to perfection: ſo was Major
+<hi>Greathead,</hi> that was the chiefeſt man in drawing forth ſome
+<hi>30</hi> perſons to riſe with him in arms in the <hi>Yorkſhire</hi> pretended plot; whereby many deſolate widows and fatherleſs were made, and he received a great <pb facs="tcp:101675:3"/>ſum of money for his pains: and <hi>Joſeph Crowther,</hi> hired to trappan men, came to <hi>Mancheſter,</hi> and went in a ſeeming deſolate condition, and Saint-like ſhape and language, with ſighing and weeping to ſome honest men, to ſeek ſuccour, as a perſon eſcap<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng the hands of his enemies, and guilty in that <hi>Yorkſhire</hi>-fact; and notwithſtanding they made diſcovery of him, yet he was let go, and two of them bound over to the Seſſions, thence to the Aſſizes, where they were ſet free by Judge <hi>Turner</hi> and Judge <hi>Twiſden:</hi> this man alſo hath a beneficial Office conferred on him ſince.</p>
+            <p>
+               <hi>Reader,</hi> if thou doubteſt the truth of what I ſay, make but enquiry among any knowing and impartial perſons inhabiting the places herein named, and thou mayeſt eaſily be confirmed, and further informed than I am willing here to relate; nor had this come forth by me, but that I was restleſs night and day when I ſaw no courſe was taken in all this time to ſtop this ſpirit of wickedneſs, but that it ſpreads through the Nation and threatens its ruine; at laſt I reſolved to give it in writing to the King's own hand, but finding how difficult it was for me to get to him, I got it to the Preſs, hoping by ſome good providence it may be brought to him by ſome other hands that may make it more acceptable, that ſome ſpeedy courſe might be taken to ſtop the further ſpreading of theſe pernicious practices by ſuch wicked ſpirits; at leaſt ſuch as are in Authority to improve the oppor<g ref="char:EOLhyphen"/>tunity, not only to ſhew their diſlike of, but alſo correct them: otherwiſe, what ſhall we look for, but that the great God of Heaven, who abhorreth the blood<g ref="char:EOLhyphen"/>thirſty perſon, and hath ſaid the wicked ſhall be cut off from the Earth, will pour forth the viols of his wrath, and ſweep away the refuge of lies.</p>
+            <p>I do not (God is my witneſs) divulge my Enemies wickedneſs out of any re<g ref="char:EOLhyphen"/>venge againſt their perſons, but ſhould be as ready to ſerve them, as they were to deſtroy me, but rather that they would repent, and others be warned to do no more ſo wickedly; but chiefly, that ſuch as are peaceable in the Land might depend only upon the Lord, and beware of the Fowlers ſnare, and not move by any pre<g ref="char:EOLhyphen"/>tences of men, to ſeek to deliver themſelves by an arm of fleſh, but cry mightily to God night and day, until the Spirit from on high be poured down upon them, and till the Lord ariſe to go before them. Alſo I deſire <hi>Jehovah</hi> may have the praiſe that is due to him from me among his people, that he ſhould aſſiſt, ſtreng<g ref="char:EOLhyphen"/>then and deliver ſuch a ſilly creature as I am, in the midſt, and from the hands of ſuch potent mighty politick perſons, notwithſtanding their flattery &amp; threats, ſmiles and frowns to overcome me. I likewiſe deſire the prayers of all Saints (that may hear hereof) to the Lord, that he would vouchſafe me his grace, ſtill to ſtand faſt and go through whatſoever he ſhall call me to do or ſuffer for his Name ſake. Now committing my ſelf to the protection of Iſraels Preſerver, (and this Intelligence, to <hi>Englands</hi> Watchmen) waiting for
+<hi>Sions</hi> Redemption, at whoſe breaſts I ſuck conſolation, to which nouriſhment (if thou haſt it not) I deſire thy converſion, who (in my own eſteem) am the worſt of her Off ſpring.</p>
+            <closer>
+               <signed>E. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:101675:3"/>
+            <head>The NARRATIVE.</head>
+            <p>THat upon the 22d of <hi>February</hi> 1663, Mr. <hi>Nich. Moſely,</hi> one of the Juſtices of Peace for the County of
+<hi>Lancaſter,</hi>
+               <note place="margin">My fir<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſeiſur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mr M<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at Ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cheſte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> came to me, <hi>Evan Price,</hi> as I was at work with my Maſter, <hi>Roger Mareland,</hi> Clothworker in
+<hi>Mancheſter;</hi> and de<g ref="char:EOLhyphen"/>ſired me to go and drink my mornings-draught at Mr. <hi>Johnſons</hi> the <hi>Kings-head</hi>-Tavern: where, after ſome talk with me alone, he told me, that he came to me by Authority from the King; and that if I would take the counſel to do the King a piece of ſervice, it was now in his power to make me whilſt he lived; which was in brief, to be a Witneſs, and ſwear againſt ſuch men, as were to him diſco<g ref="char:EOLhyphen"/>vered to be in a Plot againſt the King; and for which I ſhould have as a reward, either a thouſand pounds in money<note n="*" place="margin">Thy m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ney peri<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with the Acts <hi>8.</hi>
+               </note>, or the tenth part of ſuch mens Eſtates as I ſhould evidence againſt; and that further Evidence would be procured to joyn with me herein. Which mo<g ref="char:EOLhyphen"/>tion I utterly rejected, hating (as I told him) to take Bribes to ſhed Blood. Whereupon his countenance changed, and being very wrathful, he threatned with many proteſtations, that he would hang me if I ſo withſtood his Motion and Authority; and thereupon laid hands upon me, ſearching my pockets, and ſent for a Conſtable,<note place="margin">The Con<g ref="char:EOLunhyphen"/>ſtables name is Joh. Br<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bands.</note> charging him to bring me to Juſtice
+<hi>Lightbound's</hi> houſe, where they examined me about a pretended Plot; but finding nothing, charged the Conſtable to ſecure me that night in the Dungeon, and bring me the next day to <hi>Berry</hi> before the Deputy-Lieu<g ref="char:EOLhyphen"/>tenants; ſending for my Maſter with whom I wrought, to finde ſomething againſt me; but he cleared me upon his Oath, that I had kept conſtantly to my work with him for divers months before.</p>
+            <p>Being brought the next day to <hi>Berry,</hi> before the Deputy-Lieute<g ref="char:EOLhyphen"/>nants, and examined four ſeveral times before them, no Accuſer appearing againſt me, all departing away but Sir <hi>Robert Bradſhaw,</hi> Mr. <hi>Holl</hi> and Mr. <hi>Moſely,</hi> they made my
+<hi>Mittimus,</hi> and ſent me to <hi>Lancaſter</hi> Goal, without Bail or Mainprize.</p>
+            <p>Being at <hi>Lancaſter,</hi> Mr. <hi>Moſely,</hi> at the Aſſizes following, came to me ſeveral times with his former temptations, enlarging his prof<g ref="char:EOLhyphen"/>fers, and withal told me that I ſhould find the Judges themſelves would confirm the ſame to me; thereupon forthwith bringing me to the Judges in their Chamber, <hi>viz.</hi> Judge <hi>Turner</hi> and
+<hi>Twiſden,</hi> 
+               <pb n="2" facs="tcp:101675:4"/>who told me they had received ſeveral Letters and Papers, which Mr. <hi>Moſely</hi> (as they ſaid) had given them, mentioning a Combi<g ref="char:EOLhyphen"/>nation of five thouſand perſons (of the
+<hi>Independants, Presbyterians, Anabaptiſts,</hi> and
+<hi>Fifth-Monarchy-men</hi>) in <hi>Lancaſhire</hi> and <hi>Cheſhire,</hi> to make Inſurrection againſt the King and his Government, and the Names of forty or fifty of the principal Contrivers thereof, a<g ref="char:EOLhyphen"/>gainſt whom my evidence was required, the Judges naming moſt of them to me, and amongſt the reſt the Lord <hi>Delamere</hi> as chief, aſſuring me that what Mr.
+<hi>Moſely</hi> had promiſed ſhould be made good, if I would ſerve the King therein as deſired; which I ſtill refuſing, was returned to Priſon again, and continued there above a twelve-month after. The Letters and Papers above-mentioned, by the Judges direction, were put into the hands of Juſtice
+<hi>Hartly</hi> to be tranſcribed, which he did at the Ship-Tavern in
+<hi>Lancaſter</hi> that Aſſize, and ſo Copies thereof were ſpread abroad into many hands in both Counties, the extract of which Letters, and the whole of the Trappanning-Declaration, as Providence brought to hand, take as followeth.</p>
+            <p>The firſt Letter is directed from <hi>Wakefield</hi> by an unknown hand, no name thereto, dated <hi>Febr.</hi> 6. 1663. and therein ſaith, That
+<q rend="margQuotes">though <hi>Cheſhire</hi> &amp;
+<hi>Lancaſhire</hi> (like <hi>Pilate</hi>) would waſh their hands in innocency from the late Plot, yet it may be found otherwiſe: for as they were guilty firſt againſt his Father in that Rebellion, ſo may they be in the laſt, that now is our Sovereign Lord and King: for it may not be doubted but the <hi>Presbyterians, Independants</hi> and <hi>Anabaptiſts</hi> in thoſe two Counties, to the number of five thouſand, were levened with the
+<hi>Fifth-Monarchy Spirit,</hi> and about <hi>Man<g ref="char:EOLhyphen"/>cheſter, Warrington</hi> and <hi>Stopford,</hi> five hundred. The chiefeſt A<g ref="char:EOLhyphen"/>gents and Truſtees in both Counties (as his firſt Letter mentions) were theſe, <hi>viz.</hi> the Lord <hi>Delamere,</hi> Mr. <hi>Eaton</hi> his Chaplain, Colonel
+<hi>Duckenfield,</hi> Col. <hi>Croxon,</hi> Col. <hi>Venables,</hi> Major
+<hi>Traverſe,</hi> Lieut. <hi>Smith,</hi> Mr. <hi>John Crew</hi> of
+<hi>
+                     <g ref="char:V">Ʋ</g>tkinton,</hi> Mr. <hi>Henry Bradſhaw,</hi> and Mr. <hi>Jones</hi> of
+<hi>Marpool,</hi> the late Mr. <hi>Sam. Eaton,</hi> Mr. <hi>Bruton, James Fitton,</hi> and <hi>Hugh Gandy;</hi> theſe fourteen for <hi>Cheſhire</hi> were the chief Engagers and Agents for the reſt with purſe and perſons to their power. And in <hi>Lancaſhire</hi> nineteen, <hi>viz.</hi> Col.
+<hi>Birch, Col. Weſt, Col. Sawrey,</hi> the late Major <hi>Wiggan,</hi> Major
+<hi>Ridg,</hi> Major <hi>Porter,</hi> Major <hi>Edge,</hi> Mr. <hi>Tho. Birch, Mr. Edw. Gathorn, Mr. An<g ref="char:EOLhyphen"/>gier, Mr. Newcomb, Mr. Harriſon, Mr. Jones, Mr. Robert Birch, Mr. Yates,</hi> (all ſix old pretended Preachers) <hi>Mr. Ditchfield, Mr. <pb n="3" facs="tcp:101675:4"/>Greenwood</hi> an Apothecary in
+<hi>Lancaſhire,</hi> Mr. <hi>Jolly,</hi> and Sergeant <hi>William Booth.</hi> Theſe were all that were named in the firſt Let<g ref="char:EOLhyphen"/>ter, ſave one <hi>Evan Price</hi> that was a Meſſenger between them, to carry Letters and Intelligence, againſt whom the Informer would appear at the Aſſizes, if the ſaid <hi>Evan,</hi> being ſecured, did refuſe to diſcover the fore-named perſons: but if the ſaid <hi>Evan</hi> would be drawn by any reward to accuſe ſuch men, then give and grant him the tenth part of each mans eſtate that he ſhould ſo accuſe; but if he would not, then threaten and fright him to it.</q>
+            </p>
+            <p>The ſecond Letter was dated at <hi>Lancaſter,</hi> without name, with ſome reaſons why yet he would not be known to him, confirming the firſt, and adding the Names following, <hi>viz.</hi> In <hi>Cheſhire, William Barret, Thomas Partington,</hi> Major <hi>Bonnell,</hi> Lieut.
+<hi>Bancraft,</hi> and <hi>William Brown.</hi> In <hi>Lancaſhire,</hi> Major
+<hi>Robinſon,</hi> Capt. <hi>James Ho<g ref="char:EOLhyphen"/>worth</hi> near <hi>Charley,</hi> Mr.
+<hi>Sharpleſs,</hi> Sir <hi>Rich. Houghton</hi> of <hi>Houghton Tower,</hi> and Dr. <hi>Fife</hi> made privy to it, but unwilling to engage in action; but the Lady <hi>Sarah</hi> (Mr. <hi>Eatons</hi> chief Diſciple) did engage to ſupply with Moneys: Mr. <hi>Harriſon</hi> of the File-Country, <hi>Mr. Howbrook</hi> Shopkeeper in <hi>Mancheſter.</hi> And moreover, that the
+<hi>Pha<g ref="char:EOLhyphen"/>naticks</hi> in <hi>York-ſhire</hi> were grown more numerous and unanimous in their deſigns and reſolutions, to avenge their Brethrens blood, or be hanged after them: many who formerly diſſented, now com<g ref="char:EOLhyphen"/>plied. And that it required diligence in him, and all his Majeſties faithful Subjects, to ſtir themſelves to prevent the danger. And that he knew no way better to get a diſcovery of them both in <hi>Lan<g ref="char:EOLhyphen"/>caſhire</hi> and
+<hi>Cheſhire,</hi> than to labour with the ſaid <hi>Evan Price,</hi> who being poor, might by a good reward be brought to diſcover theſe, and more, having been ſo imployed amongſt them; which if he would, then get the Judges to aſſure him of pardon, and any re<g ref="char:EOLhyphen"/>ward he would deſire. If by this means they prevailed not, then get ſome truſty friend that could act his part with a <hi>Phanaticks,</hi> tongue, to go to him as from Capt.
+<hi>Hogsons</hi> Wife, Mr. <hi>Marſdens</hi> Wife, his Brother
+<hi>Gamaliel,</hi> and <hi>David Lombies</hi> Wife, and <hi>Mr. Roots</hi> Wife, and <hi>Joſhua Bailey</hi> and his Wife, with deſcription of the place of their habitation; and in caſe they could not get one that knew them and the place of their abode, with certain tokens from them, then to condole and lament his condition, and perſwade him to endure, and ſo get what he could from him that way; then leave this following <hi>Declaration</hi> with him, and preſently ſeize him therewith, and ſo procure him to make a diſcovery to ſave his <pb n="2" facs="tcp:101675:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:101675:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="4" facs="tcp:101675:6"/>own neck. The
+<hi>Declaration,</hi> word for word, was as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>A Door of Hope opened in the Valley of Achor,<note place="margin">
+                              <gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>e Title</note> for the Mourners of Sion out of the North; ſent abroad to revive the Priſoners of Hope, and awaken the dead Witneſſes of the Lamb, to prepare themſelves to meet him in his Remnant on Mount Sion, in judgment againſt the Mount of Eſau and myſtical Babylon, the Mother of Harlots and Abomina<g ref="char:EOLhyphen"/>tions of the Earth.</head>
+                        <p>VVHereas ſeveral thouſands of us,<note place="margin">
+                              <gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> Pre<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>e.</note> poor low worms, and de<g ref="char:EOLhyphen"/>ſpiſed ſervants of our Lord King <hi>JESUS,</hi> after earneſt ſeeking of the face of our God by prayer, ſupplications and confe<g ref="char:EOLhyphen"/>rences, together with the Word and Prophecies of the Scripture, as we were able (in an obſcure manner) to underſtand the Lord's mind, and our own duties, eſpecially the Work of our Day and Ge<g ref="char:EOLhyphen"/>neration; we are by inward compulſion of the Spirit of God (we truſt) carried on to declare and make known our hearts (ſo far as at preſent we are able) to the Lords people, and all others in the three Nations that love the Name of God, Truth, Peace, their own po<g ref="char:EOLhyphen"/>ſterity, and the welfare of their Country.</p>
+                        <p>
+                           <hi>That we are deeply affected with,</hi>
+                           <note place="margin">
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ounds</note>
+                           <hi>and incenſed at the daily Blaſphe<g ref="char:EOLhyphen"/>mies which we hear againſt the Name of God,</hi>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                           <hi>his Son, Goſpel, Taberna<g ref="char:EOLhyphen"/>cle, and thoſe who worſhip therein.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                           <hi>At the most horrible-wickedneſs (unheard-of) openly committed in the Land, and countenanced by thoſe in Authority (if not tolerated by Law) yea much of it openly in Stage-Plays acted; beſides the common ſins of Adultery, Drunkenneſs, Swearing, Stealing, and what not.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                           <hi>At the common Superstitious and Idolatrous wayes of Worſhip ſet up in the Nations, with compulſion of the free-born Natives to complyance therewith; and the ſad Sufferings of ſuch, as for Conſcience-ſake to<g ref="char:EOLhyphen"/>wards God cannot, by Impriſonments, Excommunications, Confiſcations of Goods, and Baniſhment from Countries and Relations.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                           <hi>At the loud cryes, not only of the Saints in moſt Priſons of the Nation, but alſo of the Innocent Blood of our dear Chriſtian Brethren and natural Friends, Neighbours and Relations, unjuſtly taken away under pretence of Plots and Treaſons (like Naboth) enſnared by the like trappanning-ſpirit, as</hi> Jezebel <hi>uſed; ſo that theſe<g ref="char:punc">▪</g> as the Souls under the Altar, do cry for vengeance in our ears to revenge their blood, that the violence done to their fleſh may be upon</hi> Babylon.</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                           <hi>At the lamentable cryes of the Poor of the Land for want of Imploy<g ref="char:EOLhyphen"/>ment, through the decay of Trading, by means of Exciſe, Customs, <pb n="5" facs="tcp:101675:6"/>Monthly-Taxes, Poll-money, Chimney-money, Gift-money, and Subſidy-money; all which is laid out in abundance, but nothing brought in; as if the curſe which the Prophet ſpeaks of were upon it, or 'twere put into bags with holes,</hi> Hag. 1.6. Mal. 2.2.</p>
+                        <p n="6">6. <hi>The ſwarming-in of Jeſuites, Prieſts, and outlandiſh Papiſts, to infect the minds of our Neighbours, and in time to cut our throats (if the Lord in mercy do not timely prevent them) ſo invading our Country with ſuch Idolatry as coſt the Nation ſo much Blood and Treaſure to extirpate; and ſtopping the mouths of (almoſt all) godly Proteſtant able Miniſters, eſpecially ſuch as cannot in con<g ref="char:EOLhyphen"/>ſcience comply with the Popes Canons in our Epiſcopal Devotions, thereby making way for Antichriſt, the</hi> Pope (<hi>if not at last to bring in the</hi> Turks
+<hi>up<g ref="char:EOLhyphen"/>on us</hi>) <hi>yet to bring us back into</hi> Romes <hi>Juriſdiction, there to meet him, and mock the Lord Jeſus that gave himſelf for us.</hi>
+                        </p>
+                        <p>And now though we cannot ſay that we are ſufficiently ſenſible and humbled for our own ſins, which made way for theſe abominations, yet in meaſure we deſire to take ſhame
+<note n="†" place="margin">O that there w<gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> ſuch an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> heart in them, &amp; Deut <hi>5, 29,</hi>
+                           </note> to our ſelves, eſpecially ſuch of us as have defiled our garments in chuſing of us new gods, by being inſtrumen<g ref="char:EOLhyphen"/>tal to bring theſe things to paſs by our backſlidings and revolts from the Lord, to help the wicked and ungodly, as <hi>Jehoſaphat</hi> did <hi>Ahab,</hi> 2 <hi>Chron.</hi> 19.2. and weaken the hands of our godly Brethren, who in the wiſdom of the Spirit foreſaw the event, and gave us warning betimes; but now we deſire no longer to abound in ſinfull compliance, as to ſtand by and behold our Brethren carried captives, left we our ſelves be the firſt that may juſtly follow after, <hi>Obad.</hi> 10.11. But we beg the Lord to abound in pardoning grace, and give us hearts to manifeſt repentance by our returns to, and zeal for the Lord; and to help the Poor and Needy againſt the Mighty; and not delight our ſelves in our own fulneſs and their miſe<g ref="char:EOLhyphen"/>ries any longer, but quit our ſelves like men, ſeeing there is no remedy but death and deſtruction threatned, or at leaſt to live in a worſe condi<g ref="char:EOLhyphen"/>tion than ſlavery, for ſuch as deſire to live morally in the Nation, much more godly in Chriſt Jeſus. And we being taught by Grace and Nature, to uſe all lawful means to defend our Lives, Liberties, Relations and Eſtates; alſo ſatisfied from the Word of God that the uſe of Temporal Weapons of War is a lawful means of God's own inſtitution in its time, and that by the uſe thereof in the hands of Saints; as one means, the Kingdoms of this world muſt fall, before they become the Kingdoms of our Lord &amp; of his Chriſt; and having ſeen the Lord own them ſo evident<g ref="char:EOLhyphen"/>ly already, We declare our ſelves of a ready mind (when the Lord ſhall form and call us out thereby) to hazard our lives, and all that is or may be dear or near unto us, for the reviving of the <hi>Good Old Cauſe.</hi> And though we be perſwaded we need not uſe Arguments to our Brethren <hi>(who are <pb n="6" facs="tcp:101675:7"/>called, choſen and faithful)</hi> in the Nation for aſſiſtance herein, for we know they love not their lives unto the death, but will follow the Lamb through the greateſt difficulties; Yet to our civil Neighbours and dear Country<g ref="char:EOLhyphen"/>men, that would rather <hi>dye like Men,</hi> than <hi>live worſe than Slaves in their own native Land,</hi> as many do who want food and raiment (which Slaves have in ſtrange Lands) We ſay, <hi>Break your Plowſhares into Swords,</hi> Joel
+3.10. <hi>and fight for your Lives, your Wives, Children and Houſes,</hi> Neh. 4.11, 12. and come forth <hi>to help the Lord againſt the mighty</hi> with us; who for ſatisfaction to all do declare,<note place="margin">
+                              <gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ter.</note> That we thus are reſolved, and ſhall,</p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> As much as in us lieth, <hi>labour to remove the aforeſaid Grievances.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> We ſhall to our power <hi>preſs after Purity of Life, Doctrine, and Reforma<g ref="char:EOLhyphen"/>tion of Church-diſcipline according to the Word of God, and the example of beſt reformed Churches, as ſome of us long ſince have entred, and as the reſt of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> now enter into a ſolemn League and Covenant to purſue.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> We are ready to ſtand up with lives and eſtates <hi>to maintain, uphold and defend both Magiſtracy and Ministry, for perfecting the foreſaid Work of Re<g ref="char:EOLhyphen"/>formation, whether Monarchical or Commonwealth.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="4"/> We declare, <hi>that we ſhall ſecure the Lives and Eſtates of all that oppoſe us not herein, as our own; and that as well thoſe who ſhall be paſſive as active herein, to accompliſh the aforeſaid good ends.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="5"/> We declare our ſelves <hi>void of a ſpirit of revenge for any wrong done to us; nor ſeek we the blood of any, but ſuch as in an hoſtile way ſtand to oppoſe us, and ſuch as are guilty of innocent blood in the Land; nor ſhall any other damage come by us to thoſe who have been our greateſt perſecutors, provided they mani<g ref="char:EOLhyphen"/>fest due and timely repentance.</hi>
+                        </p>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="6"/> We declare in the ſight of God, Angels and Men, <hi>That having obtained our ends in theſe Iſlands, we deſire not to reſt or ſit ſtill, but be (till we die) act<g ref="char:EOLhyphen"/>ing for the deſtruction of</hi> Gog <hi>and</hi> Magog, <hi>Pope and Turk, with all their ad<g ref="char:EOLhyphen"/>herents; preparing for Chriſts Kingdom to be ſet up at his coming, by magni<g ref="char:EOLhyphen"/>fying him as King and Law giver of Saints and Nations; the converſion of the Jews, with the fulneſs of the Gentiles, which we pray God for aid and aſſiſtanc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> in: and let all that love the Lord Jeſus Chriſt ſay,</hi> Amen. <hi>Even ſo, com<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> quickly,</hi> Rev.
+22.20. <hi>And they heard a great Voice from Heaven ſaying<g ref="char:punc">▪</g> Come up hither,</hi> Rev. 11.12. <hi>And they heard a great Voice from Heaven ſaying, The Kingdoms of this world are become the Kingdoms of our Lord, and of his Chriſt, and he ſhall reign for ever and ever.</hi> ver. 15.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>That about a fortnight after the Aſſizes <hi>Mr. Spencer,</hi> the then preſent High-Sheriff, came to the Goalers houſe and ſent for me from the Priſon aſſuring me of the reward <hi>Mr. Moſely</hi> and the Judges had promiſed me, <hi>viz.</hi> a thouſand pound in money, or the tenth part of their eſtates againſt <pb facs="tcp:101675:7"/>whom I ſhould ſwear. And in further confirmation thereof, ſhewed me two Letters, one from the Duke of <hi>Albemarle,</hi> the other from Sir <hi>Henry Bennet,</hi> whoſe Names he ſhewed me, and my own Name alſo mentioned in the ſaid Letters (telling me withal that the Lord <hi>Delamere</hi> and Sir <hi>Rich. Horton</hi> were in the Liſt.) But when he ſaw Rewards and Promiſes would not work with me, he ſorely threatned me with Death, which (he ſaid) would certainly befal me.</p>
+            <p>Many forged and indirect wayes were uſed to take away my Life (at leaſt my Ears) in revenge: For when <hi>Mr. Moſely</hi> ſaw all other wayes fail, the better to uphold his own credit, would at laſt (tranſcribing thoſe two Letters he gave to the Judges, like my hand, having got ſome Let<g ref="char:EOLhyphen"/>ters of mine) perſwade the Deputy-Lieutenants and others to whom he ſhewed them, that I was the Writer and Forger of thoſe Letters, and ſo would have fathered the villany upon me; but being compared with my hand-writing, cleared my innocency the more to many that before ſu<g ref="char:EOLhyphen"/>ſpected me.</p>
+            <p>Alſo there was one <hi>Enoch Eller</hi> of
+<hi>Mancheſter,</hi> a Barber, who by Juſtice <hi>Moſely</hi> was procured to ſwear with me (had I undertaken it) againſt any of the perſons deſigned for deſtruction, as himſelf confeſſed; who had alſo ſworn againſt me, but God prevented him by detecting the like vil<g ref="char:EOLhyphen"/>lanous contrivance and perjury againſt eight innocent perſons, who by Mr. <hi>Moſely</hi>'s inſtigation he ſwore againſt: but was convicted of his Per<g ref="char:EOLhyphen"/>jury before Judge <hi>Turner</hi> the Summer Aſſizes 1664. being conſtrained to flee the Country to ſave his ears.</p>
+            <p>Theſe my Sufferings and the grounds thereof being made publick, and coming to the ears of ſome principally deſigned againſt; the Lord
+<hi>Dela<g ref="char:EOLhyphen"/>mere</hi> ſent particularly to receive information of the truth thereof from me, which I did give him under my hand and ſeal, atteſted before Juſtice <hi>Porter</hi> and tranſcribed by his Clerk; and particularly of the proceedings aforeſaid with Mr. <hi>Moſely</hi> the Deputy-Lieutenants &amp; the Judges, and of their naming him to me in the chamber in particular amongſt the reſt that were deſigned againſt. Which Information (as I was informed) the Lord <hi>Delamere</hi> transferred, with a Complaint, to <hi>London;</hi> And that the return he had from thence thereupon was to this purpoſe, <hi>viz.</hi> That the Judges denied they either mentioned, or ſo much as heard his Name mentioned at that time, or that ever they ſaw his Name in any Liſt in relation to this buſineſs. Thereupon the Lord <hi>Delamere,</hi> and others concerned in the Report, demanded my further Evidence, ſeeing the Judges denied it. But not being otherwiſe able to make out what was ſpoken by them to me in private before Juſtice <hi>Moſely,</hi> I was threatned of all ſides, both by the Judges and others, to be ſet upon the Pillory: which probably had befaln me, had not God by his providence brought it to light by Mr. <hi>Moſely's</hi>
+               <pb facs="tcp:101675:8" rendition="simple:additions"/>own confeſſion to Dr. <hi>Fife,</hi> at Mr.
+<hi>Greens</hi> a Tavern in <hi>Mancheſter,</hi> four o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> five perſons being preſent, who did there acknowledge to them that th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord <hi>Delamere</hi> was named to me by the Judges in their chamber.</p>
+            <p>This further confirmation coming to the Lord <hi>Delamere,</hi> he was plea<g ref="char:EOLhyphen"/>ſed, the better to vindicate himſelf, and to detect ſuch vile practices, to enter his Action in ſome of the Courts of Juſtice againſt Mr. <hi>Moſely,</hi> bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as I was informed) had his proceedings ſtopt by Letters from <hi>London</hi> Mr. <hi>Moſely</hi> being enjoyned to make his Submiſſion and ask him forgive<g ref="char:EOLhyphen"/>neſs: Thereupon the Lord <hi>Delamere</hi> enjoyned Juſtice
+<hi>Moſely</hi> to ſet m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> free, which he did accordingly by his Agents, Juſtice <hi>Har<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly</hi> and Mr. <hi>Ha<g ref="char:EOLhyphen"/>ward,</hi> before Judg <hi>Twiſden</hi> in his chamber the Lent Aſſizes 64. following<g ref="char:punc">▪</g>
+            </p>
+            <p>But afterwards, <hi>Aug.</hi> 65. Sir <hi>Roger Bradſhaw,</hi> one of my former malici<g ref="char:EOLhyphen"/>ous adverſaries, meeting me near <hi>Wiggen,</hi> ſtayed me, and told me he would ſend me to Goal; thereupon, without any cauſe ſhewed, took me to an Alehouſe and commanded ſix or ſeven of his men to ſtrip me, under pre<g ref="char:EOLhyphen"/>tence of ſearching me for Letters, though before in his preſence I opened my clothes, emptied and turned my pockets; his ſaid men uſed me very barbarouſly, and robbed me of about 20
+<abbr>
+                  <hi>s.</hi>
+               </abbr> and though they could find no<g ref="char:EOLhyphen"/>thing they pretended to ſeek for, yet did Sir <hi>Roger</hi> detain me there as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Priſoner about 14 dayes, without any legal proceeding by Examination Warrant or <hi>Mittimus, &amp;c.</hi> After Sir <hi>Roger,</hi> with Mr. <hi>Holt,</hi> tendred th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Oath of Allegiance to me; and upon the refuſing thereof, ſent me to the Common-Goal at
+<hi>Lancaſter,</hi> where I was kept in moſt cruel ſort for ſeve<g ref="char:EOLhyphen"/>ral months, lying in a cold open Room all Winter long, and four Lock<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turned upon me, neither could I by any means procure a place to lie dry in. Hereupon on the 16th of
+<hi>March</hi> 65. I drew up a <hi>Narrative</hi> of my for<g ref="char:EOLhyphen"/>mer Sufferings, and the grounds of them, by Mr. <hi>Moſely's</hi> means; then my latter by Sir
+<hi>Roger Bradſhaws</hi> cruel and barbarous uſage, with a
+<hi>Petition</hi> to Judge <hi>Ransford,</hi> the then Judge of the Aſſizes, beſeeching him to tende<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame to the King, ſo eminently concerned therein, which was read to the Judge, &amp; the principal heads confirmed by ſome perſons of quality (as I was told) which the Judge gave to Sir <hi>Roger,</hi> to make his Exception<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt either me or it; which though I after urged him to in open Cour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (where in the face of the Country I laid open their wicked carriages) he could not do, Only (he ſaid) I had refuſed to take the <hi>Oath,</hi> and that Mr. <hi>Moſely</hi> (whom he ſet forth to be a very worthy Gentleman) was for the preſent abſent, whom I had greatly abuſed in my <hi>Narrative;</hi> And therefore deſired I might be bound over to the next Aſſizes to anſwer Mr. <hi>Moſely</hi> for the injury I had done him; which was done accordingly, and I continued Priſoner til the next Aſſizes, when with much ado I procured liberty to appear in the Court by a <hi>Petition</hi> to Judge <hi>Turner,</hi> Mr. <hi>Moſely</hi> being preſent, making no reply at all: hereupon the Judg ordered me to be ſet at liberty. <hi>Thus was the ſnare broken and I eſcaped.</hi>
+            </p>
+            <trailer>THE END</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
